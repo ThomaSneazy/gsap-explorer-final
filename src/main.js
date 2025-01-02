@@ -4,7 +4,7 @@ import gsap from 'gsap'
 
 console.log(
     '%c Dev by Thomas Carré\n' + 
-    '🌐 Website: https://carre.studio.com\n' +
+    '🌐 Websit: https://carre.studio.com\n' +
     '🐦 Twitter/X: https://x.com/ThomasCarre_' +
     '📸 Instagram: https://www.instagram.com/carre__studio/\n' +
     '💼 LinkedIn: https://www.linkedin.com/in/thomas-carre/\n' ,
